@@ -10,15 +10,17 @@ Install the following plugins for sublime text:
 
 	Search for the following packages and install them.
 
-			#############################
-			#	SublimeGit				#
-			#	Stylus					#
-			#	Jade					#
-			#	Emmet					#
-			#	Gitignore				#
-			#	SublimeLinter 			#
-			#	SublimeLinter-jshint	#
-			#	SideBarEnhancements		#
-			#############################	
+######################
+SublimeGit
+Stylus
+Jade
+Emmet
+Gitignore
+SublimeLinter
+SublimeLinter-jshint
+SideBarEnhancements
+#######################
 
 Install Sublime Themes as per your liking (My recommendations: 'spacegray', 'phoenix')
+
+//Do all the package related changes in "user", not "default".
